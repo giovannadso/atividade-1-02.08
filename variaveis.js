@@ -42,7 +42,7 @@ console.log(entree)
 
 // Questão 11 //
 
-entree = 'Burrito'; // Isso deve gerar um erro, pois "entree" é uma variável constante e não pode ser reatribuída.
+//entree = 'Burrito'; Isso deve gerar um erro, pois "entree" é uma variável constante e não pode ser reatribuída.//
 
 // Questão 12 //
 
